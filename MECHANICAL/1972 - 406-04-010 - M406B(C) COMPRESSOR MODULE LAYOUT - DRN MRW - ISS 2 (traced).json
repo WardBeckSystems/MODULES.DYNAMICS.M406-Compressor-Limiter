@@ -1,0 +1,71 @@
+{
+ "drawing": "Modules/DYNAMICS/M406/MECHANICAL/1972 - 406-04-010 - M406B(C) COMPRESSOR MODULE LAYOUT - DRN MRW - ISS 2.jpg",
+ "version": 1,
+ "trace": "_traces/884f5406fe188736.svg",
+ "sheet": {
+  "number": "B 406-04-010",
+  "title": "M406B(C) COMPRESSOR / MODULE LAYOUT",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 270,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 18.3, 428.0, 305.3],
+ "outlines": {
+  "line": {"rings": 738, "straight": {"n": 11705, "mm": 16782.5}, "curved": {"n": 1783, "mm": 2828.8}},
+  "text": {"rings": 326, "straight": {"n": 3063, "mm": 3241.2}, "curved": {"n": 854, "mm": 1240.1}}
+ },
+ "circles": [
+  {"c": [393.3, 243.6], "r": 6.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [333.8, 204.8], "r": 6.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [334.0, 165.3], "r": 6.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.2},
+  {"c": [344.1, 125.6], "r": 5.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [393.4, 243.6], "r": 5.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [333.7, 204.6], "r": 4.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.7},
+  {"c": [393.3, 243.5], "r": 3.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [71.7, 131.3], "r": 3.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [71.0, 245.2], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [333.7, 105.2], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [333.9, 268.4], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [323.0, 125.5], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [88.8, 128.1], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [333.6, 105.0], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6}
+ ],
+ "boxes": [
+  {"mm": [228.2, 198.4, 237.5, 211.2], "w": 9.3, "h": 12.8, "from": "ring"},
+  {"mm": [104.7, 168.8, 145.7, 196.5], "w": 41.0, "h": 27.7, "from": "ring"},
+  {"mm": [228.0, 159.1, 237.4, 171.6], "w": 9.4, "h": 12.5, "from": "ring"},
+  {"mm": [188.3, 164.3, 191.7, 166.9], "w": 3.5, "h": 2.6, "from": "ring"},
+  {"mm": [184.1, 62.4, 198.2, 71.7], "w": 14.1, "h": 9.3, "from": "ring"},
+  {"mm": [199.1, 62.2, 315.4, 71.6], "w": 116.4, "h": 9.4, "from": "ring"},
+  {"mm": [316.9, 62.1, 421.7, 71.6], "w": 104.7, "h": 9.5, "from": "ring"},
+  {"mm": [184.1, 43.4, 262.3, 61.5], "w": 78.2, "h": 18.1, "from": "ring"},
+  {"mm": [263.4, 52.4, 276.4, 61.5], "w": 13.0, "h": 9.1, "from": "ring"},
+  {"mm": [277.2, 52.5, 315.4, 61.5], "w": 38.2, "h": 9.1, "from": "ring"},
+  {"mm": [316.9, 33.7, 421.5, 61.5], "w": 104.5, "h": 27.9, "from": "ring"},
+  {"mm": [277.4, 43.2, 315.4, 52.2], "w": 38.0, "h": 9.0, "from": "ring"},
+  {"mm": [263.4, 43.2, 276.4, 52.0], "w": 13.0, "h": 8.9, "from": "ring"},
+  {"mm": [263.4, 33.7, 276.6, 42.7], "w": 13.2, "h": 9.1, "from": "ring"},
+  {"mm": [277.4, 33.7, 315.4, 42.7], "w": 38.0, "h": 9.1, "from": "ring"},
+  {"mm": [184.2, 24.6, 262.3, 42.6], "w": 78.2, "h": 18.0, "from": "ring"},
+  {"mm": [316.9, 24.6, 329.0, 33.2], "w": 12.1, "h": 8.6, "from": "ring"},
+  {"mm": [329.6, 24.5, 397.7, 33.2], "w": 68.1, "h": 8.8, "from": "ring"},
+  {"mm": [398.6, 24.6, 409.8, 33.2], "w": 11.3, "h": 8.6, "from": "ring"},
+  {"mm": [277.4, 24.4, 315.5, 33.2], "w": 38.1, "h": 8.8, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [{"c": [323.0, 125.5], "r": 1.3, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout B 406-04-010, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 270°",
+  "- **Ink extent:** 0–428 mm across, 18–305 mm up",
+  "- **Outlines:** line 738 rings, 11,705 straight (16,782 mm) / 1,783 curved (2,829 mm); text 326 rings, 3,063 straight (3,241 mm) / 854 curved (1,240 mm)",
+  "- **Circles and arcs:** 14 circles, 0 arcs; largest r 6.7 @ (393.3, 243.6), r 6.7 @ (333.8, 204.8), r 6.1 @ (334.0, 165.3), r 5.9 @ (344.1, 125.6)",
+  "- **Closed boxes:** 20",
+  "- **Dots (junctions):** 1"
+ ]
+}
