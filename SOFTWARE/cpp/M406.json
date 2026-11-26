@@ -1,0 +1,94 @@
+{
+ "index": 5,
+ "code": "M406",
+ "title": "M406 PWM Compressor",
+ "category": "Dynamics",
+ "description": "100 kHz pulse-width modulation chopper shunt gain cell with CA3080 OTA",
+ "circuitSummary": "Classic broadcast dynamics processor utilizing 100 kHz triangle carrier slicing and Intersil CA3080 OTA variable transconductance for ultra-fast, coloration-free transparent leveling.",
+ "nodes": [
+  {
+   "id": "in",
+   "label": "Audio In",
+   "type": "input",
+   "x": 50,
+   "y": 50
+  },
+  {
+   "id": "sidechain",
+   "label": "Sidechain Detector",
+   "type": "detector",
+   "x": 200,
+   "y": 120
+  },
+  {
+   "id": "carrier",
+   "label": "100kHz Carrier Gen",
+   "type": "oscillator",
+   "x": 350,
+   "y": 120
+  },
+  {
+   "id": "chopper",
+   "label": "PWM Chopper Shunt",
+   "type": "vca",
+   "x": 350,
+   "y": 50
+  },
+  {
+   "id": "filter_100k",
+   "label": "Carrier Trap Filter",
+   "type": "filter",
+   "x": 520,
+   "y": 50
+  },
+  {
+   "id": "out",
+   "label": "Comp Out",
+   "type": "output",
+   "x": 690,
+   "y": 50
+  }
+ ],
+ "wires": [
+  {
+   "from": "in",
+   "to": "chopper"
+  },
+  {
+   "from": "in",
+   "to": "sidechain"
+  },
+  {
+   "from": "sidechain",
+   "to": "carrier"
+  },
+  {
+   "from": "carrier",
+   "to": "chopper"
+  },
+  {
+   "from": "chopper",
+   "to": "filter_100k"
+  },
+  {
+   "from": "filter_100k",
+   "to": "out"
+  }
+ ],
+ "clap": {
+  "id": "ca.wbsps.m406_pwm_compressor",
+  "name": "Ward-Beck M406 PWM Compressor",
+  "strings": [
+   "ca.wbsps.m406_pwm_compressor",
+   "Ward-Beck M406 PWM Compressor",
+   "Ward-Beck Systems Preservation Society",
+   "https://wbsps.ca",
+   "",
+   "https://wbsps.ca/contact",
+   "1.0.0",
+   "Legendary Rodger Beck 100 kHz pulse-width modulation chopper optical-smooth dynamics compressor"
+  ]
+ },
+ "suite_index": 5,
+ "source": "2030.env/vst/M406_PWM_Compressor"
+}
