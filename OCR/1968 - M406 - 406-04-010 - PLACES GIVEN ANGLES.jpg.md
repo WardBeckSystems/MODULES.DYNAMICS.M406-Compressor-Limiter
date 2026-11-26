@@ -20,7 +20,7 @@ Wiki page: [M406](../../../../PAGES/M406.md)
 - **Closed boxes:** 17
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1968 - M406 - 406-04-010 - PLACES GIVEN ANGLES (traced).json](../MECHANICAL/1968%20-%20M406%20-%20406-04-010%20-%20PLACES%20GIVEN%20ANGLES%20(traced).json) (the CAD file: `1968 - M406 - 406-04-010 - PLACES GIVEN ANGLES (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M406 - 406-04-010 - PLACES GIVEN ANGLES (traced).json](../MECHANICAL/1968%20-%20M406%20-%20406-04-010%20-%20PLACES%20GIVEN%20ANGLES%20%28traced%29.json) (the CAD file: `1968 - M406 - 406-04-010 - PLACES GIVEN ANGLES (traced).dxf`).
 
 ## Full text
 

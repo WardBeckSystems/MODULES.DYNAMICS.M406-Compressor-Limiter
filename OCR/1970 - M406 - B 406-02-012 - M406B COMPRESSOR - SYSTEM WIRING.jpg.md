@@ -27,7 +27,7 @@ Wiki page: [M406](../../../../PAGES/M406.md)
 - **Title block:** (146, 33)–(400, 85) mm: OR STATION GND · SYSTEMS · FINISH · WARD · BECK · MODI CKD · DRN · DJG · DpK: DATE · M4O6B COMPRESSOR · 502 · JAN 70 · MATERIAL · WIRING · CHKD · SYSTEM · SCALE · PLACES · GIVEN · ANGLES · 02 01z · TO
 - **Wiring (first pass):** 85 connected wire groups from 468 runs; labelled ends: 255 mm → WIRING, ISS., TOLS, FRACT : 1/64; 122 mm → 6oOn, SOURCE; 115 mm → SUPPLIES, +48, 24; 108 mm → SYSTEM; 65 mm → OUTPUT" 2, 16, 17
 
-Every curve, box, word and wire group: [1970 - M406 - B 406-02-012 - M406B COMPRESSOR - SYSTEM WIRING (traced).json](../SCHEMATICS/1970%20-%20M406%20-%20B%20406-02-012%20-%20M406B%20COMPRESSOR%20-%20SYSTEM%20WIRING%20(traced).json) (the CAD file: `1970 - M406 - B 406-02-012 - M406B COMPRESSOR - SYSTEM WIRING (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M406 - B 406-02-012 - M406B COMPRESSOR - SYSTEM WIRING (traced).json](../SCHEMATICS/1970%20-%20M406%20-%20B%20406-02-012%20-%20M406B%20COMPRESSOR%20-%20SYSTEM%20WIRING%20%28traced%29.json) (the CAD file: `1970 - M406 - B 406-02-012 - M406B COMPRESSOR - SYSTEM WIRING (traced).dxf`).
 
 ## Full text
 

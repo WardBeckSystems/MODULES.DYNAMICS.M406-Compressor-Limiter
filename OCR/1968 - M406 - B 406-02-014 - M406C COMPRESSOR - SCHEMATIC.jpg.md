@@ -22,7 +22,7 @@ Wiki page: [M406](../../../../PAGES/M406.md)
 - **Words (OCR):** 10 in 7 lines: UNLEZS · Resistors /aw 5 VALUE OHVS · PICACFARADS · 374+20 · 5 R92 · V406 COMPRESSOR · SCHEMATIC
 - **Wiring (first pass):** 153 connected wire groups from 950 runs; labelled ends: 60 mm → 5 R92; 58 mm → COMPRESSOR, V406; 42 mm → 374+20; 28 mm → 374+20; 15 mm → COMPRESSOR, SCHEMATIC, V406
 
-Every curve, box, word and wire group: [1968 - M406 - B 406-02-014 - M406C COMPRESSOR - SCHEMATIC (traced).json](../SCHEMATICS/1968%20-%20M406%20-%20B%20406-02-014%20-%20M406C%20COMPRESSOR%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1968 - M406 - B 406-02-014 - M406C COMPRESSOR - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M406 - B 406-02-014 - M406C COMPRESSOR - SCHEMATIC (traced).json](../SCHEMATICS/1968%20-%20M406%20-%20B%20406-02-014%20-%20M406C%20COMPRESSOR%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1968 - M406 - B 406-02-014 - M406C COMPRESSOR - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

@@ -32,7 +32,7 @@ Wiki page: [M406](../../../../PAGES/M406.md)
 - **Closed boxes:** 20
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1972 - 406-04-010 - M406B(C) COMPRESSOR MODULE LAYOUT - DRN MRW - ISS 2 (traced).json](../MECHANICAL/1972%20-%20406-04-010%20-%20M406B(C)%20COMPRESSOR%20MODULE%20LAYOUT%20-%20DRN%20MRW%20-%20ISS%202%20(traced).json) (the CAD file: `1972 - 406-04-010 - M406B(C) COMPRESSOR MODULE LAYOUT - DRN MRW - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1972 - 406-04-010 - M406B(C) COMPRESSOR MODULE LAYOUT - DRN MRW - ISS 2 (traced).json](../MECHANICAL/1972%20-%20406-04-010%20-%20M406B%28C%29%20COMPRESSOR%20MODULE%20LAYOUT%20-%20DRN%20MRW%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1972 - 406-04-010 - M406B(C) COMPRESSOR MODULE LAYOUT - DRN MRW - ISS 2 (traced).dxf`).
 
 ## Full text
 

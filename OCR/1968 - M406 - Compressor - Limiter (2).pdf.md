@@ -24,7 +24,7 @@ Wiki page: [M406](../../../../PAGES/M406.md)
 - **Dots (junctions):** 21
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1968 - M406 - Compressor - Limiter (2) p1 (traced).json](../MANUALS/1968%20-%20M406%20-%20Compressor%20-%20Limiter%20(2)%20p1%20(traced).json) (the CAD file: `1968 - M406 - Compressor - Limiter (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M406 - Compressor - Limiter (2) p1 (traced).json](../MANUALS/1968%20-%20M406%20-%20Compressor%20-%20Limiter%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1968 - M406 - Compressor - Limiter (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -36,7 +36,7 @@ Every curve, box, word and wire group: [1968 - M406 - Compressor - Limiter (2) p
 - **Dots (junctions):** 2
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1968 - M406 - Compressor - Limiter (2) p2 (traced).json](../MANUALS/1968%20-%20M406%20-%20Compressor%20-%20Limiter%20(2)%20p2%20(traced).json) (the CAD file: `1968 - M406 - Compressor - Limiter (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M406 - Compressor - Limiter (2) p2 (traced).json](../MANUALS/1968%20-%20M406%20-%20Compressor%20-%20Limiter%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1968 - M406 - Compressor - Limiter (2) p2 (traced).dxf`).
 
 ## Full text
 

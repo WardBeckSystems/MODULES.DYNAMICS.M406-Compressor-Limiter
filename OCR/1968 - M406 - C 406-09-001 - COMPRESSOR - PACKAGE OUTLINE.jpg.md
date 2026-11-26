@@ -26,7 +26,7 @@ Wiki page: [M406](../../../../PAGES/M406.md)
 - **Words (OCR):** 42 in 28 lines: 63 · 250 · 6 0- · 1.58 · OTap · FaneL CUTOUT · 51 · 43 · NoTES · DESIGNED FoR MtG S1DE · BY SIDE, ON · 60 CTRS
 - **Wiring (first pass):** 104 connected wire groups from 510 runs; labelled ends: 398 mm → CUTOUT, FaneL; 133 mm → 51; 124 mm → 51; 77 mm → 51; 70 mm → 250, 6 0-
 
-Every curve, box, word and wire group: [1968 - M406 - C 406-09-001 - COMPRESSOR - PACKAGE OUTLINE (traced).json](../SCHEMATICS/1968%20-%20M406%20-%20C%20406-09-001%20-%20COMPRESSOR%20-%20PACKAGE%20OUTLINE%20(traced).json) (the CAD file: `1968 - M406 - C 406-09-001 - COMPRESSOR - PACKAGE OUTLINE (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M406 - C 406-09-001 - COMPRESSOR - PACKAGE OUTLINE (traced).json](../SCHEMATICS/1968%20-%20M406%20-%20C%20406-09-001%20-%20COMPRESSOR%20-%20PACKAGE%20OUTLINE%20%28traced%29.json) (the CAD file: `1968 - M406 - C 406-09-001 - COMPRESSOR - PACKAGE OUTLINE (traced).dxf`).
 
 ## Full text
 

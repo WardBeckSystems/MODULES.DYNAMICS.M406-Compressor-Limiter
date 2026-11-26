@@ -33,7 +33,7 @@ Wiki page: [M406](../../../../PAGES/M406.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 54 connected wire groups from 374 runs, 1 dotted junctions
 
-Every curve, box, word and wire group: [1968 - 406-09-002 - SYSTEM WIRING - DRN C.S. O'CONNELL - ISS 1 (traced).json](../SCHEMATICS/1968%20-%20406-09-002%20-%20SYSTEM%20WIRING%20-%20DRN%20C.S.%20O%27CONNELL%20-%20ISS%201%20(traced).json) (the CAD file: `1968 - 406-09-002 - SYSTEM WIRING - DRN C.S. O'CONNELL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - 406-09-002 - SYSTEM WIRING - DRN C.S. O'CONNELL - ISS 1 (traced).json](../SCHEMATICS/1968%20-%20406-09-002%20-%20SYSTEM%20WIRING%20-%20DRN%20C.S.%20O%27CONNELL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1968 - 406-09-002 - SYSTEM WIRING - DRN C.S. O'CONNELL - ISS 1 (traced).dxf`).
 
 ## Full text
 

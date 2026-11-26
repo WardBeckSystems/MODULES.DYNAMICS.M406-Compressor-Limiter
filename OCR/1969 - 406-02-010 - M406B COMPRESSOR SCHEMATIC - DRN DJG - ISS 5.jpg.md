@@ -34,7 +34,7 @@ Wiki page: [M406](../../../../PAGES/M406.md)
 - **Words (OCR):** 1 in 1 lines: 53912
 - **Wiring (first pass):** 148 connected wire groups from 936 runs; labelled ends: 13 mm → 53912; 10 mm → 53912; 7 mm → 53912
 
-Every curve, box, word and wire group: [1969 - 406-02-010 - M406B COMPRESSOR SCHEMATIC - DRN DJG - ISS 5 (traced).json](../SCHEMATICS/1969%20-%20406-02-010%20-%20M406B%20COMPRESSOR%20SCHEMATIC%20-%20DRN%20DJG%20-%20ISS%205%20(traced).json) (the CAD file: `1969 - 406-02-010 - M406B COMPRESSOR SCHEMATIC - DRN DJG - ISS 5 (traced).dxf`).
+Every curve, box, word and wire group: [1969 - 406-02-010 - M406B COMPRESSOR SCHEMATIC - DRN DJG - ISS 5 (traced).json](../SCHEMATICS/1969%20-%20406-02-010%20-%20M406B%20COMPRESSOR%20SCHEMATIC%20-%20DRN%20DJG%20-%20ISS%205%20%28traced%29.json) (the CAD file: `1969 - 406-02-010 - M406B COMPRESSOR SCHEMATIC - DRN DJG - ISS 5 (traced).dxf`).
 
 ## Full text
 

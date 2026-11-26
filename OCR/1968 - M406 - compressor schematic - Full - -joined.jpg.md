@@ -11,6 +11,20 @@ Wiki page: [M406](../../../../PAGES/M406.md)
 - **Size:** 4,259,837 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 104 mm, 2000 × 481 px traced (0.216 mm/px)
+- **Ink extent:** 30–426 mm across, 0–104 mm up
+- **Outlines:** line 2,529 rings, 18,508 straight (18,587 mm) / 3,404 curved (3,767 mm); text 59 rings, 357 straight (277 mm) / 96 curved (108 mm)
+- **Centre lines:** 20,100 paths (176 closed); straight 11,798 mm, curved 81.0 mm; horizontal 4,444 mm, vertical 2,545 mm, diagonal 4,809 mm
+- **Circles and arcs:** 0 circles, 30 arcs
+- **Closed boxes:** 3
+- **Dots (junctions):** 3
+- **Words (OCR):** 8 in 7 lines: 0-85 (iuls) · 'OIES · URLESS · REsISTCE' · Miue · capacitor VALUES · Er
+- **Wiring (first pass):** 124 connected wire groups from 890 runs; labelled ends: 152 mm → 0-85 (iuls); 24 mm → Er; 24 mm → 0-85 (iuls); 19 mm → 0-85 (iuls); 17 mm → Er
+
+Every curve, box, word and wire group: [1968 - M406 - compressor schematic - Full - -joined (traced).json](../SCHEMATICS/1968%20-%20M406%20-%20compressor%20schematic%20-%20Full%20-%20-joined%20%28traced%29.json) (the CAD file: `1968 - M406 - compressor schematic - Full - -joined (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

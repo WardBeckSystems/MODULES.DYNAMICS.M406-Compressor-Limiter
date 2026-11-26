@@ -32,7 +32,7 @@ Wiki page: [M406](../../../../PAGES/M406.md)
 - **Closed boxes:** 20
 - **Wiring (first pass):** 64 connected wire groups from 477 runs
 
-Every curve, box, word and wire group: [1970 - 406-02-012 - M406B COMPRESSOR SYSTEM WIRING - DRN DJG - ISS 2 (traced).json](../SCHEMATICS/1970%20-%20406-02-012%20-%20M406B%20COMPRESSOR%20SYSTEM%20WIRING%20-%20DRN%20DJG%20-%20ISS%202%20(traced).json) (the CAD file: `1970 - 406-02-012 - M406B COMPRESSOR SYSTEM WIRING - DRN DJG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 406-02-012 - M406B COMPRESSOR SYSTEM WIRING - DRN DJG - ISS 2 (traced).json](../SCHEMATICS/1970%20-%20406-02-012%20-%20M406B%20COMPRESSOR%20SYSTEM%20WIRING%20-%20DRN%20DJG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1970 - 406-02-012 - M406B COMPRESSOR SYSTEM WIRING - DRN DJG - ISS 2 (traced).dxf`).
 
 ## Full text
 

@@ -21,7 +21,7 @@ Wiki page: [M406](../../../../PAGES/M406.md)
 - **Closed boxes:** 23
 - **Wiring (first pass):** 53 connected wire groups from 371 runs
 
-Every curve, box, word and wire group: [1968 - M406 - 406-09-002 - MIN BEND RAD UNLESS SPECIFIED (traced).json](../SCHEMATICS/1968%20-%20M406%20-%20406-09-002%20-%20MIN%20BEND%20RAD%20UNLESS%20SPECIFIED%20(traced).json) (the CAD file: `1968 - M406 - 406-09-002 - MIN BEND RAD UNLESS SPECIFIED (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M406 - 406-09-002 - MIN BEND RAD UNLESS SPECIFIED (traced).json](../SCHEMATICS/1968%20-%20M406%20-%20406-09-002%20-%20MIN%20BEND%20RAD%20UNLESS%20SPECIFIED%20%28traced%29.json) (the CAD file: `1968 - M406 - 406-09-002 - MIN BEND RAD UNLESS SPECIFIED (traced).dxf`).
 
 ## Full text
 

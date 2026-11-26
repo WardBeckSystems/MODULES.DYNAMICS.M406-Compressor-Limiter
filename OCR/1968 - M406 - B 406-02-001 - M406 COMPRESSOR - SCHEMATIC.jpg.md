@@ -24,7 +24,7 @@ Wiki page: [M406](../../../../PAGES/M406.md)
 - **Title block:** (367, 15)–(421, 26) mm: WARD · BECK SYSHEI
 - **Wiring (first pass):** 169 connected wire groups from 1,101 runs, 3 dotted junctions; labelled ends: 1255 mm → BECK SYSHEI; 210 mm → WARD, IOLS; 50 mm → SELT; 39 mm → 14746; 22 mm → 14746
 
-Every curve, box, word and wire group: [1968 - M406 - B 406-02-001 - M406 COMPRESSOR - SCHEMATIC (traced).json](../SCHEMATICS/1968%20-%20M406%20-%20B%20406-02-001%20-%20M406%20COMPRESSOR%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1968 - M406 - B 406-02-001 - M406 COMPRESSOR - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M406 - B 406-02-001 - M406 COMPRESSOR - SCHEMATIC (traced).json](../SCHEMATICS/1968%20-%20M406%20-%20B%20406-02-001%20-%20M406%20COMPRESSOR%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1968 - M406 - B 406-02-001 - M406 COMPRESSOR - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

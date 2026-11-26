@@ -25,7 +25,7 @@ Wiki page: [M406](../../../../PAGES/M406.md)
 - **Words (OCR):** 100 in 96 lines: 2N2I0Z · ~I0 · VtIn · R26 · RI2 · 08 · 2N4401 · 9i0R · RI4 · 7i0HC · 2N3645 · 9i0R
 - **Title block:** (185, 41)–(376, 151) mm: ZOOR · C26 · RIS · WBS|463 · 5w IN?14 · Gan · 4oi · U4716 · De-Es · Gnd · Qb · 4K7 · Is · Gah · Ward-Beck · M406 Compjum De esser
 
-Every curve, box, word and wire group: [1968 - M406 - Compressor - Limiter p1 (traced).json](../MANUALS/1968%20-%20M406%20-%20Compressor%20-%20Limiter%20p1%20(traced).json) (the CAD file: `1968 - M406 - Compressor - Limiter p1 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M406 - Compressor - Limiter p1 (traced).json](../MANUALS/1968%20-%20M406%20-%20Compressor%20-%20Limiter%20p1%20%28traced%29.json) (the CAD file: `1968 - M406 - Compressor - Limiter p1 (traced).dxf`).
 
 ### Page 2
 
@@ -36,7 +36,7 @@ Every curve, box, word and wire group: [1968 - M406 - Compressor - Limiter p1 (t
 - **Closed boxes:** 74; named: Vr1; T1; 12; l12; 10; VR2; T1; 15; 30; 20; 19; R6
 - **Words (OCR):** 114 in 101 lines: In Ilowl · Cz0 · C26 · Vr1 · L1 · A3 · In (hi) · 12 · C25 · T1 · Q1 · C1
 
-Every curve, box, word and wire group: [1968 - M406 - Compressor - Limiter p2 (traced).json](../MANUALS/1968%20-%20M406%20-%20Compressor%20-%20Limiter%20p2%20(traced).json) (the CAD file: `1968 - M406 - Compressor - Limiter p2 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M406 - Compressor - Limiter p2 (traced).json](../MANUALS/1968%20-%20M406%20-%20Compressor%20-%20Limiter%20p2%20%28traced%29.json) (the CAD file: `1968 - M406 - Compressor - Limiter p2 (traced).dxf`).
 
 ## Full text
 

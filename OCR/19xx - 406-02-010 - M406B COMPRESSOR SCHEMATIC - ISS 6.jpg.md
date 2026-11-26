@@ -34,7 +34,7 @@ Very wide, thin strip scan of a schematic with title block at lower right, illeg
 - **Words (OCR):** 4 in 4 lines: Cdcitor · CCMPONENT · M4OSE COVPRESSOR · schevatic
 - **Wiring (first pass):** 136 connected wire groups from 777 runs, 1 dotted junctions
 
-Every curve, box, word and wire group: [19xx - 406-02-010 - M406B COMPRESSOR SCHEMATIC - ISS 6 (traced).json](../SCHEMATICS/19xx%20-%20406-02-010%20-%20M406B%20COMPRESSOR%20SCHEMATIC%20-%20ISS%206%20(traced).json) (the CAD file: `19xx - 406-02-010 - M406B COMPRESSOR SCHEMATIC - ISS 6 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 406-02-010 - M406B COMPRESSOR SCHEMATIC - ISS 6 (traced).json](../SCHEMATICS/19xx%20-%20406-02-010%20-%20M406B%20COMPRESSOR%20SCHEMATIC%20-%20ISS%206%20%28traced%29.json) (the CAD file: `19xx - 406-02-010 - M406B COMPRESSOR SCHEMATIC - ISS 6 (traced).dxf`).
 
 ## Full text
 

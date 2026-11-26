@@ -27,7 +27,7 @@ Wiki page: [M406](../../../../PAGES/M406.md)
 - **Title block:** (176, 31)–(402, 80) mm: DRN · DIG · FINISH · WARD · BECK · SYSTEMS @Td · DATE FEB 70 · M4O6B COMPRESSOR · MATERIAL · CHKD · PLUG CONNECTIONS · SCALE · FRACT * 1/64 DEC · To PLACES GIVEN · ANGLES · 406 -02 · Ol 1 ISS,
 - **Wiring (first pass):** 48 connected wire groups from 247 runs; labelled ends: 47 mm → ANGLES, 406, -02; 43 mm → PLACES, GIVEN, MIN BEND RAD UMLESS SPECIFIED; 38 mm → -02, Ol 1, 406, ISS,; 36 mm → NOTES; 31 mm → 406, GIVEN, ANGLES, MIN BEND RAD UMLESS SPECIFIED
 
-Every curve, box, word and wire group: [1970 - M406 - B 406-02-011 - M406B COMPRESSOR - PLUG CONNECTIONS (traced).json](../PINOUTS/1970%20-%20M406%20-%20B%20406-02-011%20-%20M406B%20COMPRESSOR%20-%20PLUG%20CONNECTIONS%20(traced).json) (the CAD file: `1970 - M406 - B 406-02-011 - M406B COMPRESSOR - PLUG CONNECTIONS (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M406 - B 406-02-011 - M406B COMPRESSOR - PLUG CONNECTIONS (traced).json](../PINOUTS/1970%20-%20M406%20-%20B%20406-02-011%20-%20M406B%20COMPRESSOR%20-%20PLUG%20CONNECTIONS%20%28traced%29.json) (the CAD file: `1970 - M406 - B 406-02-011 - M406B COMPRESSOR - PLUG CONNECTIONS (traced).dxf`).
 
 ## Full text
 

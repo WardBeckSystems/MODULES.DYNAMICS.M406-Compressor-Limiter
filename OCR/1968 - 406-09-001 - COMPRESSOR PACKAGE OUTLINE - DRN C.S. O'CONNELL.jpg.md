@@ -34,7 +34,7 @@ Outline drawing of a compressor module package, title block running vertically a
 - **Closed boxes:** 18
 - **Wiring (first pass):** 114 connected wire groups from 647 runs
 
-Every curve, box, word and wire group: [1968 - 406-09-001 - COMPRESSOR PACKAGE OUTLINE - DRN C.S. O'CONNELL (traced).json](../SCHEMATICS/1968%20-%20406-09-001%20-%20COMPRESSOR%20PACKAGE%20OUTLINE%20-%20DRN%20C.S.%20O%27CONNELL%20(traced).json) (the CAD file: `1968 - 406-09-001 - COMPRESSOR PACKAGE OUTLINE - DRN C.S. O'CONNELL (traced).dxf`).
+Every curve, box, word and wire group: [1968 - 406-09-001 - COMPRESSOR PACKAGE OUTLINE - DRN C.S. O'CONNELL (traced).json](../SCHEMATICS/1968%20-%20406-09-001%20-%20COMPRESSOR%20PACKAGE%20OUTLINE%20-%20DRN%20C.S.%20O%27CONNELL%20%28traced%29.json) (the CAD file: `1968 - 406-09-001 - COMPRESSOR PACKAGE OUTLINE - DRN C.S. O'CONNELL (traced).dxf`).
 
 ## Full text
 

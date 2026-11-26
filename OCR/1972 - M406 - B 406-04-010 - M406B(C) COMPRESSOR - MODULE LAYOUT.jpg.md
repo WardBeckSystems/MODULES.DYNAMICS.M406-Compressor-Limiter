@@ -24,7 +24,7 @@ Wiki page: [M406](../../../../PAGES/M406.md)
 - **Words (OCR):** 78 in 56 lines: Mi4T PCB Mi46Pcb · WBS M4068 · WBS · M40C · SEE NOTE · Threshold · THRESHolD · Output · SW | · COMP THrESHOLD · R4o · CompreSSiOn
 - **Title block:** (10, 19)–(407, 277) mm: WBS M4068 · WBS · M40C · SEE NOTE · Threshold · THRESHolD · Output · SW | · COMP THrESHOLD · R4o · CompreSSiOn · Sw2t3 · LEVEL SET · RM · REcoveky · 5 mu · Ti · 60-7 · Sw4es · 22 Pin · De-E62 · connec
 
-Every curve, box, word and wire group: [1972 - M406 - B 406-04-010 - M406B(C) COMPRESSOR - MODULE LAYOUT (traced).json](../MECHANICAL/1972%20-%20M406%20-%20B%20406-04-010%20-%20M406B(C)%20COMPRESSOR%20-%20MODULE%20LAYOUT%20(traced).json) (the CAD file: `1972 - M406 - B 406-04-010 - M406B(C) COMPRESSOR - MODULE LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M406 - B 406-04-010 - M406B(C) COMPRESSOR - MODULE LAYOUT (traced).json](../MECHANICAL/1972%20-%20M406%20-%20B%20406-04-010%20-%20M406B%28C%29%20COMPRESSOR%20-%20MODULE%20LAYOUT%20%28traced%29.json) (the CAD file: `1972 - M406 - B 406-04-010 - M406B(C) COMPRESSOR - MODULE LAYOUT (traced).dxf`).
 
 ## Full text
 

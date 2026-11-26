@@ -38,7 +38,7 @@ Wide schematic of a compressor module, title block at lower right too small to r
 - **Words (OCR):** 21 in 17 lines: 50/35 · ThAESHOLD · NOTES · UNLESS · OTHFRWSE STATED · RESISTORS Vaw VALUE IN Ohms · CAPACITCR VALUES MICROFARADS · F02IAE · ZNZIDZ · LasT COMPCNENT DESIGNATIONS · RBO (40 Qii CriI · am
 - **Wiring (first pass):** 104 connected wire groups from 850 runs, 2 dotted junctions; labelled ends: 1097 mm → BECM; 110 mm → 2H4275; 85 mm → am; 78 mm → ZNZIDZ; 74 mm → F02IAE
 
-Every curve, box, word and wire group: [19xx - 406-02-001 - COMPRESSOR SCHEMATIC - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20406-02-001%20-%20COMPRESSOR%20SCHEMATIC%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 406-02-001 - COMPRESSOR SCHEMATIC - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 406-02-001 - COMPRESSOR SCHEMATIC - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20406-02-001%20-%20COMPRESSOR%20SCHEMATIC%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 406-02-001 - COMPRESSOR SCHEMATIC - ISS 2 (traced).dxf`).
 
 ## Full text
 

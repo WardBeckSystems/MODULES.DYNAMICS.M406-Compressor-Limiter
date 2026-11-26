@@ -24,6 +24,20 @@ Dark scan of a wide tube-era schematic strip with title block at bottom right.
 - **Size:** 2,425,430 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic B 406-02-?5, size B 432 × 96 mm, 2000 × 446 px traced (0.216 mm/px)
+- **Ink extent:** 0–432 mm across, 0–96 mm up
+- **Outlines:** line 1,511 rings, 13,566 straight (14,950 mm) / 2,355 curved (2,652 mm); text 18 rings, 145 straight (112 mm) / 41 curved (46.2 mm)
+- **Centre lines:** 13,366 paths (261 closed); straight 9,206 mm, curved 43.6 mm; horizontal 3,740 mm, vertical 2,092 mm, diagonal 3,374 mm
+- **Circles and arcs:** 1 circles, 14 arcs; largest r 3.1 @ (221.2, 67.8)
+- **Closed boxes:** 7
+- **Dots (junctions):** 2
+- **Words (OCR):** 6 in 5 lines: SIAIED · MLLE · SES · M4C8 COMPRES · SCHZVATIC
+- **Wiring (first pass):** 129 connected wire groups from 769 runs; labelled ends: 35 mm → SES, M4C8, COMPRES; 11 mm → M4C8, COMPRES, SCHZVATIC, SES; 6 mm → M4C8
+
+Every curve, box, word and wire group: [1971 - B 406-02--5 - COMPRESSOR SCHEMATIC MODIFIED - DRN GP - ISS 1 (traced).json](../SCHEMATICS/1971%20-%20B%20406-02--5%20-%20COMPRESSOR%20SCHEMATIC%20MODIFIED%20-%20DRN%20GP%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1971 - B 406-02--5 - COMPRESSOR SCHEMATIC MODIFIED - DRN GP - ISS 1 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 3 words corrected)
