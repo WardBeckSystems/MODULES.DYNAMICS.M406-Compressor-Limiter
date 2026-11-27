@@ -1,0 +1,210 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1970 - 406-02-011 - M406B COMPRESSOR PLUG CONNECTIONS - DRN DJG - ISS 2 (2).jpg",
+  "module": "M406",
+  "applies_to": [
+    "M406B"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "406-02-011",
+    "title": "M406B COMPRESSOR PLUG CONNECTIONS",
+    "date": "1970-02",
+    "issue": "2",
+    "drawn": "DJG"
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 22,
+      "rows": "1-22 single row",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "INPUT (bracket 1-2)",
+      "signal": "INPUT",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "INPUT (bracket 1-2)",
+      "signal": "INPUT",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "INPUT SH",
+      "signal": "INPUT SHIELD",
+      "kind": "shield",
+      "port": "INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "OUTPUT #1 (bracket 13-14)",
+      "signal": "OUTPUT 1",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "OUTPUT #1 (bracket 13-14)",
+      "signal": "OUTPUT 1",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "METER OUTPUT (bracket 15-16)",
+      "signal": "METER OUTPUT",
+      "kind": "out",
+      "port": "METER OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "METER OUTPUT (bracket 15-16)",
+      "signal": "METER OUTPUT",
+      "kind": "out",
+      "port": "METER OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": null,
+      "as_drawn": "OUTPUT SH (NO INTERNAL CONNECTION)",
+      "signal": "OUTPUT SHIELD",
+      "kind": "shield",
+      "port": "OUTPUT 1",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "SUPPLY COMM -",
+      "signal": "SUPPLY COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "CHASSIS GND",
+      "signal": "CHASSIS GND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "+ 24V",
+      "signal": "+24 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "(dashed jumper to 22)",
+      "signal": "LAMP SUPPLY (JUMPER TO 22)",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "+ 48V",
+      "signal": "+48 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "INPUT",
+      "dir": "in",
+      "pins": {
+        "unmarked": [
+          "P1-1",
+          "P1-2"
+        ],
+        "shield": "P1-9"
+      }
+    },
+    {
+      "name": "OUTPUT 1",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P1-13",
+          "P1-14"
+        ],
+        "shield": "P1-17"
+      }
+    },
+    {
+      "name": "METER OUTPUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P1-15",
+          "P1-16"
+        ]
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [
+    {
+      "name": "48V LAMP",
+      "pins": [
+        "P1-21",
+        "P1-22"
+      ],
+      "note": "JUMPER 21 TO 22 FOR 48V SUPPLY TO LAMP CIRCUIT VIA INTERNAL DROPPING RESISTOR (drawn dashed)"
+    }
+  ],
+  "unread": [
+    "Contacts 3-8 and 10-12 carry no label; 5, 6, 7 and 8 show faint erased/ghost lines with no text",
+    "Polarity of INPUT (1, 2), OUTPUT #1 (13, 14) and METER OUTPUT (15, 16) is not marked",
+    "View (front/rear) not stated"
+  ],
+  "confidence": "high",
+  "notes": "Single row of 22 numbered contacts, no letters. Pins 1-2 are drawn as a shielded pair whose shield goes to 9 (INPUT SH). OUTPUT SH on 17 is marked NO INTERNAL CONNECTION. 21 is labelled only by the strap note. Size B drawing, drn DJG, FEB 70, ISS 2. No inserts on this drawing. Scan rotated 90 degrees; same drawing as the other two scans."
+}
