@@ -1,5 +1,5 @@
 # 1969 - M406 - B 147-06-010 - M406B COMRESSOR - M147 COMPONENT LAYOUT.jpg
-Wiki page: [M406](../../../../PAGES/M406.md)
+Wiki page: [M406](../)
 
 
 - **Year:** 1969 (found in this file: "DATE DEC 69")

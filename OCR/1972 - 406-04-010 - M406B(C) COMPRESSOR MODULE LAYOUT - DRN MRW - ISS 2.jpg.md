@@ -1,5 +1,5 @@
 # 1972 - 406-04-010 - M406B(C) COMPRESSOR MODULE LAYOUT - DRN MRW - ISS 2.jpg
-Wiki page: [M406](../../../../PAGES/M406.md)
+Wiki page: [M406](../)
 
 
 - **Year:** 1972 (title block date)

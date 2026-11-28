@@ -1,5 +1,5 @@
 # 19xx - 406-02-010 - M406B COMPRESSOR SCHEMATIC - ISS 6.jpg
-Wiki page: [M406](../../../../PAGES/M406.md)
+Wiki page: [M406](../)
 
 
 - **Year:** unknown (title block (read by eye))

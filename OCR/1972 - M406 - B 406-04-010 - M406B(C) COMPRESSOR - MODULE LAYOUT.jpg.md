@@ -1,5 +1,5 @@
 # 1972 - M406 - B 406-04-010 - M406B(C) COMPRESSOR - MODULE LAYOUT.jpg
-Wiki page: [M406](../../../../PAGES/M406.md)
+Wiki page: [M406](../)
 
 
 - **Year:** 1972 (found in this file: "DATE MARCH 72")

@@ -1,5 +1,5 @@
 # 1968 - M406 - 406-02-012 - MIN BEND RAD UNLESS SPECIFIED.jpg
-Wiki page: [M406](../../../../PAGES/M406.md)
+Wiki page: [M406](../)
 
 
 - **Year:** 1968 (module estimate (labelled))

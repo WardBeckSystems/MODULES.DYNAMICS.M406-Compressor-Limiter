@@ -1,5 +1,5 @@
 # 1970 - M406 - B 406-02-012 - M406B COMPRESSOR - SYSTEM WIRING.jpg
-Wiki page: [M406](../../../../PAGES/M406.md)
+Wiki page: [M406](../)
 
 
 - **Year:** 1970 (found in this file: "DATE JAN 70")

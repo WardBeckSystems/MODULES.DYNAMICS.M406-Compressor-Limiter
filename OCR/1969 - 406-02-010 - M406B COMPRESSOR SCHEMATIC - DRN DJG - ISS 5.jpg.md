@@ -1,5 +1,5 @@
 # 1969 - 406-02-010 - M406B COMPRESSOR SCHEMATIC - DRN DJG - ISS 5.jpg
-Wiki page: [M406](../../../../PAGES/M406.md)
+Wiki page: [M406](../)
 
 
 - **Year:** 1969 (title block date)

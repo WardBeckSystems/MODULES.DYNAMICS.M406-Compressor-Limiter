@@ -1,5 +1,5 @@
 # 1968 - M406 - C 406-09-001 - COMPRESSOR - PACKAGE OUTLINE.jpg
-Wiki page: [M406](../../../../PAGES/M406.md)
+Wiki page: [M406](../)
 
 
 - **Year:** 1968 (found in this file: "JUlY-68")

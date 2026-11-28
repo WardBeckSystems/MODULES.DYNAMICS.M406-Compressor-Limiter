@@ -1,5 +1,5 @@
 # 1968 - M406 - 406-04-010 - PLACES GIVEN ANGLES.jpg
-Wiki page: [M406](../../../../PAGES/M406.md)
+Wiki page: [M406](../)
 
 
 - **Year:** 1968 (module estimate (labelled))

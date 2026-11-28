@@ -1,5 +1,5 @@
 # 1969 - M406 - SEL RECOVERY METER CAL.jpg
-Wiki page: [M406](../../../../PAGES/M406.md)
+Wiki page: [M406](../)
 
 
 - **Year:** 1969 (found in this file: "DATE MAR 69")

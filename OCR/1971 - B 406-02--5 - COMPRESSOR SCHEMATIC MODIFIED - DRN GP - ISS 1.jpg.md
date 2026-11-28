@@ -1,5 +1,5 @@
 # 1971 - B 406-02--5 - COMPRESSOR SCHEMATIC MODIFIED - DRN GP - ISS 1.jpg
-Wiki page: [M406](../../../../PAGES/M406.md)
+Wiki page: [M406](../)
 
 
 - **Year:** 1971 (title block date)

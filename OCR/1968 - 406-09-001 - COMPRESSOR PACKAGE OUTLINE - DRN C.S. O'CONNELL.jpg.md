@@ -1,5 +1,5 @@
 # 1968 - 406-09-001 - COMPRESSOR PACKAGE OUTLINE - DRN C.S. O'CONNELL.jpg
-Wiki page: [M406](../../../../PAGES/M406.md)
+Wiki page: [M406](../)
 
 
 - **Year:** 1968 (title block date)

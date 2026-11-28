@@ -1,5 +1,5 @@
 # 1968 - 406-09-002 - SYSTEM WIRING - DRN C.S. O'CONNELL - ISS 1.jpg
-Wiki page: [M406](../../../../PAGES/M406.md)
+Wiki page: [M406](../)
 
 
 - **Year:** 1968 (title block date)

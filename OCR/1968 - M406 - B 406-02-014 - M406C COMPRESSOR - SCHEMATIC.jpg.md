@@ -1,5 +1,5 @@
 # 1968 - M406 - B 406-02-014 - M406C COMPRESSOR - SCHEMATIC.jpg
-Wiki page: [M406](../../../../PAGES/M406.md)
+Wiki page: [M406](../)
 
 
 - **Year:** 1968 (module estimate (labelled))

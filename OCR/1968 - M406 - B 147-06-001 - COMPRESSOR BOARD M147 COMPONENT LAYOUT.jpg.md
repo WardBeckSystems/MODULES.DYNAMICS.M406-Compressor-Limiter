@@ -1,5 +1,5 @@
 # 1968 - M406 - B 147-06-001 - COMPRESSOR BOARD M147 COMPONENT LAYOUT.jpg
-Wiki page: [M406](../../../../PAGES/M406.md)
+Wiki page: [M406](../)
 
 
 - **Year:** 1968 (found in this file: "DATE july 68")
