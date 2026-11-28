@@ -4,13 +4,13 @@ Ward-Beck Systems M406, 1968|1. Wiki page: [M406 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 91 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 16 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 21 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 28 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 2 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 24 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 90 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 15 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 20 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 27 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 23 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 43 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -35,7 +35,13 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZUs1YmdyZ2ZJblk/view?resourcekey=0-GIWOCPVZmcqvDx9N6iLGJQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZUs1YmdyZ2ZJblk&resourcekey=0-GIWOCPVZmcqvDx9N6iLGJQ" width="240" alt="1968 - M406 - 406-04-010 - PLACES GIVEN ANGLES.jpg"></a><br><sub>1968|1 · 406-04-010 - PLACES GIVEN ANGLES · <a href="MECHANICAL/1968%20-%20M406%20-%20406-04-010%20-%20PLACES%20GIVEN%20ANGLES%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1_9a36UHHfVwsG-Akst7ird9ZB5JlyAOM/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1_9a36UHHfVwsG-Akst7ird9ZB5JlyAOM" width="240" alt="1972 - M406 - B 406-04-010 - M406B(C) COMPRESSOR - MODULE LAYOUT.jpg"></a><br><sub>1972|5 · B 406-04-010 - M406B(C) COMPRESSOR - MODULE LAYOUT · <a href="MECHANICAL/1972%20-%20M406%20-%20B%20406-04-010%20-%20M406B(C)%20COMPRESSOR%20-%20MODULE%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1972 - 406-04-010 - M406B(C) COMPRESSOR MODULE LAYOUT - DRN MRW - ISS 2.jpg`
+## 3-D model
+
+[`MECHANICAL/M406.stl`](MECHANICAL/M406.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M406)
+
+- **Size:** 52.46 × 184.59 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 4 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M406 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M406.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -49,8 +55,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1gXjETiZBGr_-H937otCllDDLIZPtkpA1/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1gXjETiZBGr_-H937otCllDDLIZPtkpA1" width="240" alt="1970 - M406 - B 406-02-012 - M406B COMPRESSOR - SYSTEM WIRING.jpg"></a><br><sub>1970|3 · B 406-02-012 - M406B COMPRESSOR - SYSTEM WIRING · <a href="SCHEMATICS/1970%20-%20M406%20-%20B%20406-02-012%20-%20M406B%20COMPRESSOR%20-%20SYSTEM%20WIRING%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1968 - 406-09-001 - COMPRESSOR PACKAGE OUTLINE - DRN C.S. O'CONNELL.jpg`, `1968 - 406-09-002 - SYSTEM WIRING - DRN C.S. O'CONNELL - ISS 1.jpg`, `1969 - 406-02-010 - M406B COMPRESSOR SCHEMATIC - DRN DJG - ISS 5.jpg`, `1969 - 406-02-013 - M406B COMPRESSOR SCHEMATIC CEILING CONTROL MODIFIED - DRN DJG - ISS 2.jpg`, `1970 - 406-02-012 - M406B COMPRESSOR SYSTEM WIRING - DRN DJG - ISS 2.jpg`, `1970 - 406-02-012 - M406B COMPRESSOR SYSTEM WIRING - DRN DJG - ISS 3.jpg`, `1971 - B 406-02--5 - COMPRESSOR SCHEMATIC MODIFIED - DRN GP - ISS 1.jpg`, `19xx - 406-02-010 - M406B COMPRESSOR SCHEMATIC - ISS 6.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -58,8 +62,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/14XHPfE7n2n6I-jIJ49jRQL2xEBmWtls_/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=14XHPfE7n2n6I-jIJ49jRQL2xEBmWtls_" width="240" alt="1970 - M406 - B 406-02-011 - M406B COMPRESSOR - PLUG CONNECTIONS.jpg"></a><br><sub>1970|3 · B 406-02-011 - M406B COMPRESSOR - PLUG CONNECTIONS · <a href="PINOUTS/1970%20-%20M406%20-%20B%20406-02-011%20-%20M406B%20COMPRESSOR%20-%20PLUG%20CONNECTIONS%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `1970 - 406-02-011 - M406B COMPRESSOR PLUG CONNECTIONS - DRN DJG - ISS 2 (2).jpg`, `1970 - 406-02-011 - M406B COMPRESSOR PLUG CONNECTIONS - DRN DJG - ISS 2.jpg`, `M406 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -118,12 +120,10 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 406-02-001 - COMPRESSOR SCHEMATIC - ISS 2.kicad_sch](KICAD/19xx%20-%20406-02-001%20-%20COMPRESSOR%20SCHEMATIC%20-%20ISS%202.kicad_sch)
 - [19xx - 406-02-010 - M406B COMPRESSOR SCHEMATIC - ISS 6.kicad_sch](KICAD/19xx%20-%20406-02-010%20-%20M406B%20COMPRESSOR%20SCHEMATIC%20-%20ISS%206.kicad_sch)
 - [M406.kicad_sym](KICAD/M406.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ## Software
 
 - [cpp](SOFTWARE/cpp)
-- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
